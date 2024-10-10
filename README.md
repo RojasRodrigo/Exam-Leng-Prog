@@ -5,4 +5,8 @@ Este proyecto modela un sistema simple para gestionar diferentes tipos de vehíc
 ## Pasos para ejecutarlo
 
 ### Primeramete clona el repositorio con el siguiente comando:
-git clone
+git clone https://github.com/RojasRodrigo/Exam-Leng-Prog.git
+
+#### Seguidamente ingresa a la carpeta con el siguiente comando:
+cd VEHICULOS
+
